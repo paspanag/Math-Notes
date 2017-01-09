@@ -1,10 +1,10 @@
 # Statement
 
-Each infinite cardinal number is a limit number.
+Infinite cardinal number is a limit number.
 
-# ContrapositiveV
+# Contrapositive
 
-If a is not a limit ordinal, then a is not a cardinal number
+If a is not a limit ordinal, then a is not an infinite cardinal number
 
 # Proof
 
